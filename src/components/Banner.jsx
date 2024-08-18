@@ -1,5 +1,5 @@
 import iconRating from "../assets/rating.png";
-import iconRatingHalf from "../assets/rating-Half.png";
+import iconRatingHalf from "../assets/rating-half.png";
 import imgTemp from "../assets/temp-4.png";
 import iconPlay from "../assets/play-button.png";
 
